@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="488" lt="93" ts="1457307155107" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70463" ng="5" na="5">
+  <httpSample t="93" lt="93" ts="1457307155107" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="392" lt="279" ts="1457307155203" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70197" ng="5" na="5"/>
+</httpSample>
+<httpSample t="693" lt="106" ts="1457307154905" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70490" ng="5" na="5">
+  <httpSample t="106" lt="106" ts="1457307154905" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="561" lt="447" ts="1457307155037" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70224" ng="5" na="5"/>
+</httpSample>
+<httpSample t="807" lt="199" ts="1457307154811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70528" ng="5" na="5">
+  <httpSample t="199" lt="199" ts="1457307154811" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="581" lt="453" ts="1457307155037" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70262" ng="5" na="5"/>
+</httpSample>
+<httpSample t="808" lt="199" ts="1457307154811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70535" ng="5" na="5">
+  <httpSample t="199" lt="199" ts="1457307154811" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="577" lt="459" ts="1457307155042" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70269" ng="5" na="5"/>
+</httpSample>
+<httpSample t="471" lt="92" ts="1457307155304" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70464" ng="5" na="5">
+  <httpSample t="92" lt="92" ts="1457307155304" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="376" lt="266" ts="1457307155399" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70198" ng="5" na="5"/>
+</httpSample>
+<httpSample t="258" lt="67" ts="1457307155604" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70457" ng="5" na="5">
+  <httpSample t="67" lt="67" ts="1457307155604" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="191" lt="115" ts="1457307155671" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70191" ng="5" na="5"/>
+</httpSample>
+<httpSample t="263" lt="67" ts="1457307155603" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70424" ng="5" na="5">
+  <httpSample t="67" lt="67" ts="1457307155603" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="196" lt="126" ts="1457307155670" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70158" ng="5" na="5"/>
+</httpSample>
+<httpSample t="250" lt="69" ts="1457307155620" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70489" ng="5" na="5">
+  <httpSample t="69" lt="69" ts="1457307155620" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="181" lt="114" ts="1457307155689" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70223" ng="5" na="5"/>
+</httpSample>
+<httpSample t="283" lt="66" ts="1457307155619" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70628" ng="5" na="5">
+  <httpSample t="66" lt="66" ts="1457307155619" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="217" lt="125" ts="1457307155685" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70362" ng="5" na="5"/>
+</httpSample>
+<httpSample t="269" lt="86" ts="1457307155775" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70484" ng="5" na="5">
+  <httpSample t="86" lt="86" ts="1457307155775" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="183" lt="122" ts="1457307155861" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70218" ng="5" na="5"/>
+</httpSample>
+<httpSample t="304" lt="78" ts="1457307155867" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70455" ng="5" na="5">
+  <httpSample t="78" lt="78" ts="1457307155867" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="225" lt="110" ts="1457307155946" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70189" ng="5" na="5"/>
+</httpSample>
+<httpSample t="306" lt="75" ts="1457307155871" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70451" ng="5" na="5">
+  <httpSample t="75" lt="75" ts="1457307155871" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="231" lt="120" ts="1457307155946" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70185" ng="5" na="5"/>
+</httpSample>
+<httpSample t="337" lt="81" ts="1457307155863" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70540" ng="5" na="5">
+  <httpSample t="81" lt="81" ts="1457307155863" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="255" lt="133" ts="1457307155945" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70274" ng="5" na="5"/>
+</httpSample>
+<httpSample t="305" lt="66" ts="1457307155903" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70490" ng="5" na="5">
+  <httpSample t="66" lt="66" ts="1457307155903" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="238" lt="148" ts="1457307155970" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70224" ng="5" na="5"/>
+</httpSample>
+<httpSample t="307" lt="128" ts="1457307156046" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70557" ng="5" na="5">
+  <httpSample t="128" lt="128" ts="1457307156046" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="179" lt="117" ts="1457307156174" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70291" ng="5" na="5"/>
+</httpSample>
+<httpSample t="244" lt="73" ts="1457307156179" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70467" ng="5" na="5">
+  <httpSample t="73" lt="73" ts="1457307156179" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-2" dt="text" by="266" ng="5" na="5"/>
+  <httpSample t="171" lt="112" ts="1457307156252" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="70201" ng="5" na="5"/>
+</httpSample>
+<httpSample t="300" lt="76" ts="1457307156175" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70486" ng="4" na="4">
+  <httpSample t="76" lt="76" ts="1457307156175" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-3" dt="text" by="266" ng="4" na="4"/>
+  <httpSample t="223" lt="133" ts="1457307156252" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-3" dt="text" by="70220" ng="4" na="4"/>
+</httpSample>
+<httpSample t="282" lt="68" ts="1457307156201" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70535" ng="3" na="3">
+  <httpSample t="68" lt="68" ts="1457307156201" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-4" dt="text" by="266" ng="3" na="3"/>
+  <httpSample t="214" lt="129" ts="1457307156269" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-4" dt="text" by="70269" ng="3" na="3"/>
+</httpSample>
+<httpSample t="298" lt="67" ts="1457307156209" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70502" ng="2" na="2">
+  <httpSample t="67" lt="67" ts="1457307156209" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-1" dt="text" by="266" ng="2" na="2"/>
+  <httpSample t="231" lt="131" ts="1457307156276" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="70236" ng="2" na="2"/>
+</httpSample>
+<httpSample t="235" lt="74" ts="1457307156356" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70458" ng="1" na="1">
+  <httpSample t="74" lt="74" ts="1457307156356" s="true" lb="http://www.facebook.com/" rc="302" rm="Found" tn="Thread Group 1-5" dt="text" by="266" ng="1" na="1"/>
+  <httpSample t="161" lt="123" ts="1457307156430" s="true" lb="https://www.facebook.com/" rc="200" rm="OK" tn="Thread Group 1-5" dt="text" by="70192" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
